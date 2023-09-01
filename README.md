@@ -1,2 +1,3 @@
 # practice-repo
-this is a repository i created for practice,
+this is a repository i created for practice.
+
